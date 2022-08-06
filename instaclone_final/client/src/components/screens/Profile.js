@@ -12,15 +12,15 @@ const Profile=()=>{
         }}>
             <div>
                 <img style={{width:"160px", height:"160px", borderRadius:"80px"}}
-                src="https://images.unsplash.com/photo-1657214059388-a35554015a42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxzZWFyY2h8MTV8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" alt='person'/>
+                src="https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt='person'/>
             </div>
          <div>
          <div>
-                <h4>Shyam Kumar</h4>
+                <h4>Rohit Kumar</h4>
                 <div>
-                    <h5>40 posts</h5>
-                    <h5>40 followers</h5>
-                    <h5>40 following</h5>
+                    <h6>40 posts</h6>
+                    <h6>40 followers</h6>
+                    <h6>40 following</h6>
                 </div>
             </div>
          </div>

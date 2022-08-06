@@ -2,7 +2,7 @@ const express = require("express");
 const app = express()
 const cors = require("cors");
 const mongoose = require("mongoose");
-PORT = 2020;
+const PORT = 4000;
 const {MONGOURI} = require("./keys");
 
 
